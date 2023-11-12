@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "stripe": "^13.6.0"
-  }
+  },
+  "main": "backend/server.js"
 }
